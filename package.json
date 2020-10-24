@@ -1,17 +1,17 @@
 {
-  "name": "react-awesome-button",
-  "version": "6.5.1",
+  "name": "@mikegsrv/react-awesome-button",
+  "version": "6.6.0",
   "description": "Performant, extendable, highly customisable, production ready React Component that renders an animated basic set of UI buttons",
   "main": "dist/index.js",
   "author": "Rafael Caferati",
   "license": "MIT",
-  "homepage": "https://github.com/rcaferati/react-awesome-button",
+  "homepage": "https://github.com/mikegsrv/react-awesome-button",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcaferati/react-awesome-button"
+    "url": "https://github.com/mikegsrv/react-awesome-button"
   },
   "bugs": {
-    "url": "https://github.com/rcaferati/react-awesome-button/issues"
+    "url": "https://github.com/mikegsrv/react-awesome-button/issues"
   },
   "jest": {
     "setupTestFrameworkScriptFile": "./src/setupTest.js",
